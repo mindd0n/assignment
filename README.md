@@ -1,3 +1,3 @@
 # assignment
 
-### 🎀 [markdown 정리](https://github.com/mindd0n/assignment/blob/main/markdown.md)
+### 🌼 [markdown 정리](https://github.com/mindd0n/assignment/blob/main/markdown.md)
