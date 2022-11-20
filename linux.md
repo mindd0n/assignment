@@ -1,4 +1,5 @@
 # Linux
+![Linux](https://m.blog.naver.com/waplez/20183811804)
 ## 1. linux란?
 : 핀란드 헬싱키 대학의 리누스 토발스(Linus Tovals)가 만든 오픈소스 운영 체제.
 
